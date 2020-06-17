@@ -252,7 +252,7 @@ int main(){
       char ：1个字节   
       char*(即指针变量): 8个字节   
       short int : 2个字节   
-      int：  4个字节   
+      int：  4个字节   32位
       unsigned int : 4个字节  
       float:  4个字节  
       double:   8个字节   
